@@ -1,0 +1,43 @@
+th label{
+    text-align: right;
+}
+
+.error_message{
+    color:red;
+}
+
+.wrap h2.login-master-icon{
+    line-height: 22px;
+}
+
+h2.login-master-icon{
+    background-repeat: no-repeat;
+    padding-left: 35px;
+    padding-top: 0px;
+    margin-bottom: 10px;
+    margin-top: 15px;
+}
+
+h2.logins-icons{
+    background-image: url("../img/logins.png");
+}
+
+h2.settings-icons{
+    background-image: url("../img/settings.png");
+}
+
+h2.blocks-icons{
+    background-image: url("../img/blocks.png");
+}
+
+h2.limits-icons{
+    background-image: url("../img/limits.png");
+}
+
+h2.redirects-icons{
+    background-image: url("../img/redirects.png");
+}
+
+h2.sessions-icons{
+    background-image: url("../img/sessions.png");
+}
